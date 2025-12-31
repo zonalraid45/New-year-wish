@@ -33,8 +33,8 @@ I want you to know that you are the most precious person in my life. Every day w
     letter: {
       headerTitle: "A New Year Letter 💌",
       headerSubtitle: "Warm wishes for 2026",
-      letterHeaderTitle: "Dear Friend",
-      letterMessage: `Dear Friend,
+      letterHeaderTitle: "Dear Shevuu❤️",
+      letterMessage: `Dear Shevuuu,
 
   As the year turns, may your days be filled with laughter, love, and new adventures. May every dream you chase bring you closer to happiness and every moment be a memory worth cherishing.
 
